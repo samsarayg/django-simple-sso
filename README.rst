@@ -2,6 +2,10 @@
 django-simple-sso
 =================
 
+This repository is a trivial fork from [divio/django-simple-sso](https://github.com/divio/django-simple-sso).
+The intention of this fork is to keep all the changes up to date on the pypi repository in an automated way.
+Any (code) change performed on this repository would be transformed into a PR on [divio/django-simple-sso](https://github.com/divio/django-simple-sso).
+
 |pypi| |build| |coverage|
 
 

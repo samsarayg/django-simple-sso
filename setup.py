@@ -35,14 +35,15 @@ CLASSIFIERS = [
 
 
 setup(
-    name='divio-simple-sso',
+    name='django-simple-sso.naudit',
     version=__version__,
-    author='Divio AG',
-    author_email='info@divio.com',
-    url='http://github.com/aldryn/django-simple-sso',
+    author='Rafael Leira',
+    author_email='rafael.leira@naudit.es',
+    url='http://github.com/naudit/django-simple-sso',
     license='BSD-3-Clause',
     description='Simple SSO for Django',
     long_description=open('README.rst').read(),
+    long_description_content_type='text/markdown',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
