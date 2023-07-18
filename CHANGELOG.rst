@@ -2,6 +2,17 @@
 Changelog
 =========
 
+1.2.0 (2022-12-14)
+==================
+
+* Increased the max length of the Token.Token.redirect_to field to 1023
+
+
+1.1.0 (2021-08-16)
+==================
+
+* Added support to update user-data on login (#61)
+
 
 1.0.0 (2020-09-03)
 ==================
