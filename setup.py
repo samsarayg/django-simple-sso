@@ -7,7 +7,7 @@ from simple_sso import __version__
 REQUIREMENTS = [
     'Django>=2.2',
     'itsdangerous~=2.0',
-    'webservices[django]',
+    'webservices.naudit[django]',
 ]
 
 
@@ -23,10 +23,14 @@ CLASSIFIERS = [
     'Programming Language :: Python :: 3.6',
     'Programming Language :: Python :: 3.7',
     'Programming Language :: Python :: 3.8',
+    'Programming Language :: Python :: 3.9',
+    'Programming Language :: Python :: 3.10',
+    'Programming Language :: Python :: 3.11',
     'Framework :: Django',
     'Framework :: Django :: 2.2',
     'Framework :: Django :: 3.0',
     'Framework :: Django :: 3.1',
+    'Framework :: Django :: 4.0',
     'Topic :: Internet :: WWW/HTTP',
     'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
     'Topic :: Software Development',
