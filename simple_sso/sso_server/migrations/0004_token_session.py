@@ -8,8 +8,7 @@ class Migration(migrations.Migration):
 
     dependencies = [
         ('sessions', '0001_initial'),
-        ('sso_server', '0002_consumer_name_max_length'),
-        ('redirect_to', '0003_token_redirect_to_max_length'),
+        ('sso_server', '0003_token_redirect_to_max_length'),
     ]
 
     operations = [
